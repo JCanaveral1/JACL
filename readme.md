@@ -1,4 +1,3 @@
 Repository
-
-Alistair Was here
+Here is a test of autofetch
 hello
