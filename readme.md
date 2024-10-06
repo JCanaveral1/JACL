@@ -5,7 +5,8 @@ hello
 # heading level 1
 
 ## heading level 2
-
-----------
-|   1 | 2  |
-____________
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
